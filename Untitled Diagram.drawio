@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T16:28:37.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="exej_1XWBrTcYrjBOyKS" version="14.4.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-03-08T20:45:49.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="N2xmFwF26FqNHKEBIzFO" version="14.4.4" type="github" pages="6">
   <diagram id="6CeVtnad_4VXsqq0xpX-" name="Approach">
     <mxGraphModel dx="1967" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -772,34 +772,36 @@
         <mxCell id="GNODIf1reM2NGvxKe6S_-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;dashPattern=1 1;strokeWidth=2;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="440" y="130" width="49" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-14" target="GNODIf1reM2NGvxKe6S_-18">
+        <mxCell id="GNODIf1reM2NGvxKe6S_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-6" target="GNODIf1reM2NGvxKe6S_-18">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="396" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="340" y="396" />
               <mxPoint x="290" y="396" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-14" target="GNODIf1reM2NGvxKe6S_-19">
+        <mxCell id="GNODIf1reM2NGvxKe6S_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" target="GNODIf1reM2NGvxKe6S_-19">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="396" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="371" y="396" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-14" target="GNODIf1reM2NGvxKe6S_-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
-          <mxGeometry x="310" y="376" width="40" height="40" as="geometry" />
+        <mxCell id="GNODIf1reM2NGvxKe6S_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" target="GNODIf1reM2NGvxKe6S_-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="390" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-24" value="" style="group" vertex="1" connectable="0" parent="GNODIf1reM2NGvxKe6S_-1">
-          <mxGeometry x="271" y="410" width="119" height="70" as="geometry" />
+          <mxGeometry x="272" y="410" width="119" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-18" value="App 1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-24">
           <mxGeometry x="5" y="51.400000000000006" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-20" value="App 2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-24">
-          <mxGeometry x="45" y="78" width="27.300000000000004" height="27.300000000000004" as="geometry" />
+          <mxGeometry x="54" y="78" width="27.300000000000004" height="27.300000000000004" as="geometry" />
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-19" value="App 3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="357" y="463" width="28" height="28" as="geometry" />
@@ -842,25 +844,32 @@
         <mxCell id="GNODIf1reM2NGvxKe6S_-74" value="EC2&amp;nbsp;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;dashPattern=1 1;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="523" y="373" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-78" target="GNODIf1reM2NGvxKe6S_-80">
+        <mxCell id="GNODIf1reM2NGvxKe6S_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-74" target="GNODIf1reM2NGvxKe6S_-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="608" y="396" />
               <mxPoint x="558" y="396" />
             </Array>
+            <mxPoint x="578" y="396" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-78" target="GNODIf1reM2NGvxKe6S_-82">
+        <mxCell id="GNODIf1reM2NGvxKe6S_-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" target="GNODIf1reM2NGvxKe6S_-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="639" y="396" />
             </Array>
+            <mxPoint x="600" y="396" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="GNODIf1reM2NGvxKe6S_-78" target="GNODIf1reM2NGvxKe6S_-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GNODIf1reM2NGvxKe6S_-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
-          <mxGeometry x="578" y="376" width="40" height="40" as="geometry" />
+        <mxCell id="GNODIf1reM2NGvxKe6S_-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=14;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608" y="390" as="sourcePoint" />
+            <mxPoint x="607.6500000000001" y="488" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="608" y="410" />
+              <mxPoint x="608" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-79" value="" style="group" vertex="1" connectable="0" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="539" y="410" width="119" height="70" as="geometry" />
@@ -869,7 +878,7 @@
           <mxGeometry x="5" y="51.400000000000006" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-81" value="App 2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-79">
-          <mxGeometry x="45" y="78" width="27.300000000000004" height="27.300000000000004" as="geometry" />
+          <mxGeometry x="57" y="78" width="27.300000000000004" height="27.300000000000004" as="geometry" />
         </mxCell>
         <mxCell id="GNODIf1reM2NGvxKe6S_-82" value="App 3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-128.png;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=none;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="625" y="463" width="28" height="28" as="geometry" />
@@ -877,8 +886,9 @@
         <mxCell id="GNODIf1reM2NGvxKe6S_-83" value="Daemon" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-128.png;dashed=1;strokeWidth=2;fillColor=none;fontSize=12;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="647" y="376" width="37" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="qHv0JkPTwYpr7OpOmvmK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=12;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="qHv0JkPTwYpr7OpOmvmK-0" target="GNODIf1reM2NGvxKe6S_-78">
+        <mxCell id="qHv0JkPTwYpr7OpOmvmK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;fontSize=12;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="qHv0JkPTwYpr7OpOmvmK-0">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608" y="376" as="targetPoint" />
             <Array as="points">
               <mxPoint x="608" y="340" />
             </Array>
