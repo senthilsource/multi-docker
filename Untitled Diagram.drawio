@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T15:10:12.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ewzk-U0AusmpxxHyeX3n" version="16.0.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-06T15:12:20.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4ho_SZ8OwY7u8JXzMpMn" version="16.0.3" type="github" pages="8">
   <diagram id="6CeVtnad_4VXsqq0xpX-" name="Approach">
     <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -843,16 +843,14 @@
         <mxCell id="0b42iRMlTJtlpwYwTbTq-23" value="Autoscaling&lt;br style=&quot;font-size: 10px;&quot;&gt;ECS Service&amp;nbsp;" style="outlineConnect=0;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;fontColor=#3E111F;" parent="GNODIf1reM2NGvxKe6S_-1" vertex="1">
           <mxGeometry x="459" y="436" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="sUq75LE2zCSvQrUDH7C_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" source="4I9HvKl4_Nh3ljJMauGu-1" target="GNODIf1reM2NGvxKe6S_-55">
+        <mxCell id="sUq75LE2zCSvQrUDH7C_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GNODIf1reM2NGvxKe6S_-1" target="GNODIf1reM2NGvxKe6S_-55">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="107.90909090909076" y="557" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="170" y="557" />
               <mxPoint x="170" y="530" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4I9HvKl4_Nh3ljJMauGu-1" value="Admin / Devs" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="GNODIf1reM2NGvxKe6S_-1" vertex="1">
-          <mxGeometry x="64" y="534" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mvji0lQRtKQ4JsYqcOS9-0" value="Task A" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_task;" parent="GNODIf1reM2NGvxKe6S_-1" vertex="1">
           <mxGeometry x="379.74" y="430.34000000000003" width="30.26" height="40" as="geometry" />
@@ -877,6 +875,9 @@
         </mxCell>
         <mxCell id="sUq75LE2zCSvQrUDH7C_-0" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;dashPattern=1 1;strokeWidth=2;fontSize=14;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
           <mxGeometry x="583" y="230" width="49" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EY8RLk91POBLC3-SQpZd-0" value="ACCA workspace" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.workstation;" vertex="1" parent="GNODIf1reM2NGvxKe6S_-1">
+          <mxGeometry x="30" y="538.8" width="76.4" height="51.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -976,6 +977,12 @@
         </mxCell>
         <mxCell id="vN4nQ7AJJgfZlVZALY0y-0" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" parent="uYEH7wVriBZ8BwC6QAb6-1" vertex="1">
           <mxGeometry x="186" y="336" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pFeA0JVO9nfhl1yfuRN--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="uYEH7wVriBZ8BwC6QAb6-1" source="pFeA0JVO9nfhl1yfuRN--0" target="L6lA5d3WwJ-OJKhI8971-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pFeA0JVO9nfhl1yfuRN--0" value="ACCA workspace" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.workstation;" vertex="1" parent="uYEH7wVriBZ8BwC6QAb6-1">
+          <mxGeometry x="40" y="590" width="76.4" height="51.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1112,7 +1119,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_wGnDiCRTho-erIn8rLC" name="Page-8">
+  <diagram id="_wGnDiCRTho-erIn8rLC" name="Environment Approach">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="zq8bbZmH7Sit7CpfHW8O-0" />
