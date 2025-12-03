@@ -1195,9 +1195,6 @@
         <mxCell id="GoIrVuqZR3EmNooBNfNW-8" parent="GoIrVuqZR3EmNooBNfNW-7" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" value="AWS Workspace" vertex="1">
           <mxGeometry height="70" width="90" as="geometry" />
         </mxCell>
-        <mxCell id="GoIrVuqZR3EmNooBNfNW-9" parent="GoIrVuqZR3EmNooBNfNW-7" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="41" y="15" as="geometry" />
-        </mxCell>
         <mxCell id="GoIrVuqZR3EmNooBNfNW-10" edge="1" parent="GoIrVuqZR3EmNooBNfNW-1" source="GoIrVuqZR3EmNooBNfNW-8" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="240" y="390" as="sourcePoint" />
